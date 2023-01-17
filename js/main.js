@@ -317,5 +317,9 @@ jQuery(document).ready(function($) {
 	counter();
 
 
+	// custom js by @Munish Kumar Sharma
+
+
+
 
 });
